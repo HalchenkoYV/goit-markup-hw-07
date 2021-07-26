@@ -1,0 +1,9 @@
+.contact {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+
+.contact__item:not(:last-child) {
+  margin-right: 30px;
+}
